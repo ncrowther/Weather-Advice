@@ -39,12 +39,12 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="420" y="126" width="100" height="50"/>
+        <dc:Bounds x="434" y="125" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_9DF534C7-6A8D-44AB-B236-F40384B01A40-AUTO-TARGET" dmnElementRef="_9DF534C7-6A8D-44AB-B236-F40384B01A40">
         <di:waypoint x="477" y="299"/>
-        <di:waypoint x="470" y="176"/>
+        <di:waypoint x="484" y="175"/>
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
