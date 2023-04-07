@@ -1,7 +1,6 @@
 # Weather Advice DMN
 
 ## Description
-
 A  DMN service to return weather advice.
 
 Demonstrates DMN on Kogito, including REST interface code generation.
