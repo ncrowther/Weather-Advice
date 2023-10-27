@@ -74,7 +74,7 @@
           <dmn:text>true</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_BEE7C596-874B-4CC5-A2BB-0FAF7997C94E">
-          <dmn:text>"Stay home! There is a storm alert."</dmn:text>
+          <dmn:text>"Stay home! There is a storm afoot"</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text/>
